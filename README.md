@@ -1,42 +1,63 @@
-# 🎓 eduexam_master_
+# 🧠 eduexam_master_ – Smart Exam Portal
 
-**eduexam_master_** is a comprehensive exam management system designed to simplify and streamline the process of organizing, conducting, and evaluating exams in educational institutions.
-
----
-
-## 📌 Features
-
-- 📝 Create and manage exams (MCQs, subjective, etc.)
-- 👨‍🏫 Admin and Instructor Dashboard
-- 🎯 Student Registration and Authentication
-- 📊 Automated Evaluation and Result Generation
-- 📅 Exam Scheduling and Notifications
-- 📈 Analytics and Performance Tracking
-- 🔐 Secure and Scalable System Architecture
+A secure and intelligent web-based exam management system designed to simplify the process of conducting online exams for schools, colleges, and coaching institutes.
 
 ---
 
-## 🚀 Tech Stack
+## 🔥 Features
 
-- **Frontend:** HTML, CSS, JavaScript (or React/Vue)
-- **Backend:** Node.js / Django / Flask / PHP
-- **Database:** MySQL / PostgreSQL / MongoDB
-- **Authentication:** JWT / OAuth
-- **Deployment:** Render / Vercel / Heroku / AWS
+✅ **User Roles**:
+- **Admin**: Create/manage exams, view results, monitor students  
+- **Students**: Register/login, take exams, view scores
+
+✅ **Exam Functionality**:
+- Multiple choice & subjective questions
+- Timer-based exam with auto-submit
+- Instant result generation
+
+✅ **Security**:
+- Unique session per user
+- Anti-refresh and anti-cheat logic *(optional)*
+
+✅ **Responsive UI**:
+- Clean and intuitive front-end
+- Works on desktop, tablet, and mobile
+
+✅ **Data Management**:
+- Stores users, questions, and results securely using **MySQL**
 
 ---
 
-## 🛠️ Installation
+## 🛠️ Tech Stack
+
+| Tech         | Usage              |
+|--------------|--------------------|
+| HTML/CSS     | Frontend UI        |
+| JavaScript   | Dynamic behavior   |
+| PHP / Node.js| Backend logic      |
+| MySQL        | Database storage   |
+| Bootstrap    | Responsive design  |
+
+---
+
+## 📸 Screenshots
+
+> *(Add actual screenshots from your project folder here)*  
+> You can upload `.png/.jpg` and use:  
+> `![Login Screen](screenshots/login.png)`  
+> `![Exam Page](screenshots/exam.png)`
+
+---
+
+## 🚀 Getting Started
+
+### 1. Clone the repository
 
 ```bash
-# Clone the repository
-git clone https://github.com/yourusername/eduexam_master_.git
-
-# Navigate to the project directory
+git clone https://github.com/Kishor-solanki/eduexam_master_1744186950066.git
 cd eduexam_master_
 
-# Install dependencies (example for Node.js)
-npm install
-
-# Start the development server
-npm start
+AUTHOR
+Kishor Kumar Solanki
+👨‍🎓 Arya College of Engineering & IT
+💻 GitHub: @Kishor-solanki
